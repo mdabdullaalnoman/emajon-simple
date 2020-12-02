@@ -1,0 +1,25 @@
+.logo {
+  height: 50px;
+}
+
+.shop {
+  color: white !important ;
+  font-size: 22px !important;
+}
+.shop3 {
+  color: white !important ;
+  font-size: 22px !important;
+  margin-right: 10px !important;
+}
+.shop:hover {
+  color: maroon !important;
+  transition: 0.2s;
+  background-color: yellow !important;
+  border-radius: 20px !important;
+}
+.shop3:hover {
+  color: maroon !important;
+  transition: 0.2s;
+  background-color: yellow !important;
+  border-radius: 20px !important;
+}
